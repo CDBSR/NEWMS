@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    margin: 20px;
+}
+.nav-link {
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
